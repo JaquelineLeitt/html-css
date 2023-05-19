@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+body {
+  background-color: rgb(129, 255, 129);
+  font-family: "Emilys Candy", cursive;
+}
+header {
+  background-color: rgba(94, 163, 94, 0.664);
+  color: white;
+}
+header > h1 {
+  text-align: center;
+}
+header > p {
+  text-align: center;
+}
+
+div {
+  display: inline;
+  height: 100px;
+  width: 150px;
+  padding: 4px;
+}
+
+main {
+  background-color: white;
+  color: green;
+  padding: 5px;
+  margin: 2% 20%;
+}
+main > h2 {
+  background-color: rgb(155, 238, 155);
+  margin: auto;
+}
+picture{
+  margin: auto;
+}
+footer {
+  text-align: center;
+}
